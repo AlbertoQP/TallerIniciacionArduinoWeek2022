@@ -1,0 +1,25 @@
+Número de participantes: entre 10 y 15 máximo
+Duración: 1h y 30min (MAX)
+Materiales: Placas Arduino UNO con Shields y 1 portátil por cada 2 personas
+
+Temario:
+1. Breve historia sobre Arduino
+2. Explicación y cómo funciona Arduino
+3. Breves conceptos de eléctronica y programación
+	3.1. Componentes electrónicos (LED, POTENCIOMETRO, BUZZER Y SENSOR DE ILUMINACIÓN)
+	3.2. Introducción a la programación:
+		3.2.1. Variables, vectores y datos (Tipo, declaración)
+		3.2.2. Operadores
+		3.2.3. Estructura básica de programa
+		3.2.4. Estructuras de control
+4. Formas de prototipar:
+	4.1. Protoboard
+	4.2. Shields 
+		4.2.1. Mostrar diferentes tipos de Shields
+		4.2.2. Ventajas de los Shields respecto a la protoboard
+5. Ejemplos prácticos:
+	5.1. Encender y apagar un LED (Protoboard y Shield para ver diferencias en entorno real)
+	5.2. Hacer luz de policía (Shield)
+	5.3. Controlar frecuencia de parpadeo LED con potenciómetro (Shield)
+	5.4. Controlar frecuencia de sonido Buzzer con potenciómetro (Shield)
+	5.5. Leer datos del sensor de luz desde el monitor serie de Arduino IDE y encender LED
